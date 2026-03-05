@@ -16,7 +16,7 @@
 
 # :camera: Preview
 
-  <img src="img/img-projeto-encanadores.png" width = "100%"> 
+
 
   
 🔗 [Ver projeto](https://projeto-encanadores.vercel.app/)
